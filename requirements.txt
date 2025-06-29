@@ -1,0 +1,6 @@
+transformers==4.40.0
+torch==2.2.1
+gradio==4.24.0
+PyMuPDF==1.23.26
+huggingface_hub==0.22.2
+python-dotenv==1.0.1
